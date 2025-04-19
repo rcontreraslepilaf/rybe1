@@ -1,1 +1,1 @@
-Este es mi primer repositorio creado para una actividad de la asignatura endencias de Inteligencia Artificial Aplicada.
+Este repositorio es el primer proyecto creado por el usuario rcontreraslepilaf. El proyecto se llama "rybe1" y se trata de una actividad de la asignatura Tendencias de Inteligencia Artificial Aplicada.
